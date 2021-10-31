@@ -1,5 +1,5 @@
-import React from 'react'
+import Button from './presentation/atoms/Button'
 
-const App = () => <h1>Hi!</h1>
+const App = () => <Button primary>Hola</Button>
 
 export default App

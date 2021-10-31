@@ -1,8 +1,4 @@
 {
     "extends": ["ts-react-important-stuff", "plugin:prettier/recommended"],
-    "parser": "babel-eslint",
-    "rules": {
-        "react/jsx-filename-extension": [0],
-        "import/extensions": "off"
-    }
+    "parser": "babel-eslint"
 }
